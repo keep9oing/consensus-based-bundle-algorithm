@@ -1,6 +1,8 @@
 # consensus-bundle-based-algorithm
 Implementation of consensus bundle based algorithm (CBBA)[[1]](#1) with python
 
+Multi-Robot Multi-Task Allocation
+
 ### Dependency
 - matplotlib
 - imageio
