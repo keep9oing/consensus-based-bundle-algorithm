@@ -1,7 +1,7 @@
 # consensus-based-bundle-algorithm
 Implementation of consensus based bundle algorithm (CBBA)[[1]](#1) with python
 
-Decentralized Multi-Robot Multi-Task Allocation
+Decentralized Multi-Robot Task Allocation
 
 ### Dependency
 - matplotlib
